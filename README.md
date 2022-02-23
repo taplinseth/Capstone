@@ -11,7 +11,7 @@ user data
 
 
 watchlist
-| user_id | coin_name |
+| user_id | ticker    |
 |-------- |---------- |
 |         |      	    |
 |         |           |
