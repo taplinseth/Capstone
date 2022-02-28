@@ -18,5 +18,3 @@ watchlist
 |         |      	    |
 
 
-![]untitled.png
-
