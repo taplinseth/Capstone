@@ -18,5 +18,5 @@ watchlist
 |         |      	    |
 
 
-http://url/to/untitled.png
+![]/untitled.png
 
